@@ -6,3 +6,5 @@ Tabor Süden ist Hauptkommissar der Vermisstenstelle der Kripo.
 * Beruf: Hauptkommissar
 * Single
 * Sucht seinen Vater
+## Motto
+> Ich arbeite auf der Vermisstenstelle der Kripo und kann meinen eigenen Vater nicht finden.
